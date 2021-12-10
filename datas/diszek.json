@@ -1,0 +1,23 @@
+[ 
+    
+    {
+        "atmero":90,
+        "red":true,
+        "alakzat":"gömb"
+    },
+    {
+        "atmero":100,
+        "red":false,
+        "alakzat":"csillag"
+    },
+    {
+        "atmero":40,
+        "red":false,
+        "alakzat":"gömb"
+    },
+    {
+        "atmero":30,
+        "red":true,
+        "alakzat":"gömb"
+    }
+]
